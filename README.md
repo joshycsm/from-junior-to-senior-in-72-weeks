@@ -1,2 +1,2 @@
 # from-junior-to-senior-in-72-weeks
-freecodecamp.org/learn
+https://www.freecodecamp.org/learn
