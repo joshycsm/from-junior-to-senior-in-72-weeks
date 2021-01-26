@@ -68,5 +68,7 @@ https://learn.co/thoughtful-anchor-0088/resume
 
 30. https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
+31. https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
+
 
 # Private Resources
