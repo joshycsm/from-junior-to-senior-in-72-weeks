@@ -66,5 +66,7 @@ https://learn.co/thoughtful-anchor-0088/resume
 
 29. https://www.markdownguide.org/book/
 
+30. https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+
 
 # Private Resources
