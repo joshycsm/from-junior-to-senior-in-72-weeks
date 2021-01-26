@@ -64,5 +64,7 @@ https://learn.co/thoughtful-anchor-0088/resume
 
 28. https://www.markdownguide.org/getting-started/
 
+29. https://www.markdownguide.org/book/
+
 
 # Private Resources
