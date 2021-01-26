@@ -1,9 +1,9 @@
 # from-junior-to-senior-in-72-weeks
 https://www.freecodecamp.org/learn <br>
 https://flatiron-school-denver.firebaseapp.com/modules/1/ <br>
-https://learn.co/thoughtful-anchor-0088
-https://learn.co/thoughtful-anchor-0088/resume
-https://github.com/joshycsm/techtonic-apprenticeship-inital-pre-work
+https://learn.co/thoughtful-anchor-0088 <br>
+https://learn.co/thoughtful-anchor-0088/resume <br>
+https://github.com/joshycsm/techtonic-apprenticeship-inital-pre-work <br>
 
 # Learn to Code in 5 Modules
 
