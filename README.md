@@ -1,9 +1,19 @@
 # from-junior-to-senior-in-72-weeks
+
 https://www.freecodecamp.org/learn <br>
 https://flatiron-school-denver.firebaseapp.com/modules/1/ <br>
 https://learn.co/thoughtful-anchor-0088 <br>
 https://learn.co/thoughtful-anchor-0088/resume <br>
 https://github.com/joshycsm/techtonic-apprenticeship-inital-pre-work <br>
+
+# Dive into Coding Today
+
+https://projecteuler.net/ <br>
+https://www.hackerrank.com/ <br>
+https://www.codility.com/ <br>
+https://leetcode.com/ <br>
+https://www.interviewcake.com/ <br>
+https://eloquentjavascript.net/ <br>
 
 # Learn to Code in 5 Modules
 
@@ -70,6 +80,5 @@ https://github.com/joshycsm/techtonic-apprenticeship-inital-pre-work <br>
 30. https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
 31. https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
-
 
 # Private Resources
