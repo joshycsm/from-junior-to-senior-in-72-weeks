@@ -17,6 +17,34 @@ https://eloquentjavascript.net/ <br>
 
 # Learn to Code in 5 Modules
 
+## Module 1
+
+1.
+
+## Module 2
+
+1.
+
+## Module 3
+
+1.
+
+## Module 4
+
+1.
+
+## Module 5
+
+1.
+
+## Daily Module == Job Security
+
+1. Complete 5 activities on https://freecodecamp.org/learn
+2. Complete 1 problem from [Dive into Coding Today](#Dive-into-Coding-Today) and read roughly 20% of 1 chapter from <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a> OR/THEN book2 OR/THEN book3
+<!-- [Eloquent JavaScript](https://eloquentjavascript.net/){:target="_blank"} -->
+3. Take breaks, Nap, Sleep, Eat, Hang Out With Friends, Eat Out, Eat In, Go For A Walk With Your Dog or Cat, Go For A Hike
+<!-- Head over to https://flatiron-school-denver.firebaseapp.com/modules/1/ and watch one video -->
+
 # The Ultimate Guide To Success As A Software Developer / Coder / Programmer / Fast Food Delivery Driver / Stay At Home Person / Couch Potato / Binge Watcher / Cat Dad / Dog Mom / Food Enthusiast: ![](https://www.evernote.com/shard/s481/res/be76cbfc-10ea-a6ee-6a18-32ac9a352536)
 
 1. [Embedding Links](https://markdownmonster.west-wind.com/docs/_4xs10gaui.htm)
