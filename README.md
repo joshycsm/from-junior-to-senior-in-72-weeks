@@ -19,23 +19,23 @@ https://eloquentjavascript.net/ <br>
 
 ## Module 1
 
-1.
+1. Code Challenge: https://github.com/learn-co-students/module-1-code-challenge-round-1-denver-web-111819-object-relations-code-challenge---yelp-1574874659
 
 ## Module 2
 
-1.
+1. Code Challenge: https://github.com/learn-co-students/module-2-code-challenge-round-1-denver--module-2-code-challenge-round-1-denver-web-111819-1576863425
 
 ## Module 3
 
-1.
+1. Code Challenge: https://github.com/learn-co-students/module-3-code-challenge-round-1-denver-web-111819-complete-code-challenge-1579204998
 
 ## Module 4
 
-1.
+1. Code Challenge: https://github.com/learn-co-students/module-4-code-challenge-round-1-denver-web-111819-bot-battlr-1584460837
 
 ## Module 5
 
-1.
+1. Learn the basics of a new language/technology in one week and build something in it within two weeks
 
 ## Daily Module == Job Security
 
@@ -108,5 +108,24 @@ https://eloquentjavascript.net/ <br>
 30. https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
 31. https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
+
+32. https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
+
+33. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." <br>
+    -Charles Darwin
+
+34. https://avatars.githubusercontent.com/u/78075347?s=400&v=4
+
+35. https://www.laurencegellert.com/software/github-graph-builder/
+
+36. https://www.cleverfiles.com/howto/top-5-password-managers-mac.html
+
+37. https://keepassxc.org/
+
+38. https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/
+
+39. https://getcurricula.com
+
+40.
 
 # Private Resources
