@@ -5,6 +5,7 @@ https://flatiron-school-denver.firebaseapp.com/modules/1/ <br>
 https://learn.co/thoughtful-anchor-0088 <br>
 https://learn.co/thoughtful-anchor-0088/resume <br>
 https://github.com/joshycsm/techtonic-apprenticeship-inital-pre-work <br>
+https://github.com/joshycsm/myWiki <br>
 
 # Dive into Coding Today
 
@@ -19,19 +20,23 @@ https://eloquentjavascript.net/ <br>
 
 ## Module 1
 
-1. Code Challenge: https://github.com/learn-co-students/module-1-code-challenge-round-1-denver-web-111819-object-relations-code-challenge---yelp-1574874659
+1. Code Challenge: [Challenge 1](https://github.com/learn-co-students/module-1-code-challenge-round-1-denver-web-111819-object-relations-code-challenge---yelp-1574874659)
+   - Solution: [Solution 1]()
 
 ## Module 2
 
-1. Code Challenge: https://github.com/learn-co-students/module-2-code-challenge-round-1-denver--module-2-code-challenge-round-1-denver-web-111819-1576863425
+1. Code Challenge: [Challenge 2](https://github.com/learn-co-students/module-2-code-challenge-round-1-denver--module-2-code-challenge-round-1-denver-web-111819-1576863425)
+   - Solution: [Solution 2]()
 
 ## Module 3
 
-1. Code Challenge: https://github.com/learn-co-students/module-3-code-challenge-round-1-denver-web-111819-complete-code-challenge-1579204998
+1. Code Challenge: [Challenge 3](https://github.com/learn-co-students/module-3-code-challenge-round-1-denver-web-111819-complete-code-challenge-1579204998)
+   - Solution: [Solution 3]()
 
 ## Module 4
 
-1. Code Challenge: https://github.com/learn-co-students/module-4-code-challenge-round-1-denver-web-111819-bot-battlr-1584460837
+1. Code Challenge: [Challenge 4](https://github.com/learn-co-students/module-4-code-challenge-round-1-denver-web-111819-bot-battlr-1584460837)
+   - Solution: [Solution 4]()
 
 ## Module 5
 
