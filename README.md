@@ -16,24 +16,24 @@ https://leetcode.com/ <br>
 https://www.interviewcake.com/ <br>
 https://eloquentjavascript.net/ <br>
 
-# Learn to Code in 5 Modules
+# Learn to Code in 5 Modules (INCOMPLETE)
 
-## Module 1
+## Module 1 (INCOMPLETE)
 
 1. Code Challenge: [Challenge 1](https://github.com/learn-co-students/module-1-code-challenge-round-1-denver-web-111819-object-relations-code-challenge---yelp-1574874659)
    - Solution: [Solution 1]()
 
-## Module 2
+## Module 2 (INCOMPLETE)
 
 1. Code Challenge: [Challenge 2](https://github.com/learn-co-students/module-2-code-challenge-round-1-denver--module-2-code-challenge-round-1-denver-web-111819-1576863425)
    - Solution: [Solution 2]()
 
-## Module 3
+## Module 3 (INCOMPLETE)
 
 1. Code Challenge: [Challenge 3](https://github.com/learn-co-students/module-3-code-challenge-round-1-denver-web-111819-complete-code-challenge-1579204998)
    - Solution: [Solution 3]()
 
-## Module 4
+## Module 4 (INCOMPLETE)
 
 1. Code Challenge: [Challenge 4](https://github.com/learn-co-students/module-4-code-challenge-round-1-denver-web-111819-bot-battlr-1584460837)
    - Solution: [Solution 4]()
@@ -41,6 +41,7 @@ https://eloquentjavascript.net/ <br>
 ## Module 5
 
 1. Learn the basics of a new language/technology in one week and build something in it within two weeks
+   - Solution: [Solution 5](https://github.com/joshycsm/resume-frontend)
 
 ## Daily Module == Job Security
 
@@ -131,6 +132,22 @@ https://eloquentjavascript.net/ <br>
 
 39. https://getcurricula.com
 
-40.
+40. “If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success.” <br>
+    -James Cameron
+41. Invest what you are willing to lose without consequence or regret. Starting matters most! $100 is usually enough to begin actionable work:
+
+- Check out Webull, Robinhood, Kraken, TD Ameritrade, Charles Schwab, VanGuard, Fidelity, Consider Mutual / Index Funds!
+- follow top trending categories on reddit to keep up to date on happenings
+-
 
 # Private Resources
+
+- Mutual funds contact: Mike!
+- Front end design: Jared!
+- Investing: Chuck!
+- Mid Level Development: SS!
+- Start-up: Josh, ! !
+- Doggy play dates: Sara, Michael, Maui! Patrick!
+- Early embracers of Tech: Jorge, Justin, James!
+- Tennis prodigy and upcoming star: Jacob!
+- Future embracers of Tech: Tri, friend1, Danielle, tds, Ramon!
