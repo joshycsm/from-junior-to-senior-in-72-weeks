@@ -138,16 +138,26 @@ https://eloquentjavascript.net/ <br>
 
 - Check out Webull, Robinhood, Kraken, TD Ameritrade, Charles Schwab, VanGuard, Fidelity, Consider Mutual / Index Funds!
 - follow top trending categories on reddit to keep up to date on happenings
--
+- follow Elon Musk on Twitter 😶
+- Learn the difference between ETFs / mutual funds
+- Diversify your portfolio: cryptocurrency, stocks, Roth IRA, ETFs / mutual funds.
+
+42.
 
 # Private Resources
 
-- Mutual funds contact: Mike!
-- Front end design: Jared!
-- Investing: Chuck!
-- Mid Level Development: SS!
-- Start-up: Josh, ! !
-- Doggy play dates: Sara, Michael, Maui! Patrick!
-- Early embracers of Tech: Jorge, Justin, James!
-- Tennis prodigy and upcoming star: Jacob!
-- Future embracers of Tech: Tri, friend1, Danielle, tds, Ramon!
+- Mutual funds contact: Mike
+- Front end design: Jared
+- Investing: Chuck
+- Mid Level Development: SS
+- Start-up: Josh
+- Doggy play dates: Sara, Michael, Maui! Patrick
+- Early embracers of Tech: Jorge, Justin, James
+- Tennis prodigy and upcoming star: Jacob
+- Future embracers of Tech: Tri, friend1, Danielle, tds, Ramon
+
+- Strava contact:
+- Disc Golf contact:
+- App Ideas: The Conqueror
+- Beyond Developers: AlgoExpert, Joma/Tech Lead
+- Funny Memes: When your wrist goes out / DBZ, When you think you had a great idea
