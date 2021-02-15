@@ -142,7 +142,9 @@ https://eloquentjavascript.net/ <br>
 - Learn the difference between ETFs / mutual funds
 - Diversify your portfolio: cryptocurrency, stocks, Roth IRA, ETFs / mutual funds.
 
-42.
+42. Build software that people are going to use. If people don't use that software, time is wasted.
+
+43. ci / cd pipelines, release pipelines
 
 # Private Resources
 
