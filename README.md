@@ -146,6 +146,10 @@ https://eloquentjavascript.net/ <br>
 
 43. ci / cd pipelines, release pipelines
 
+44. https://youtu.be/vMU7hfNmiEo?t=959
+
+45. https://www.youtube.com/watch?v=gyZtxZVPfPI
+
 # Private Resources
 
 - Mutual funds contact: Mike
