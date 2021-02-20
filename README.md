@@ -150,6 +150,8 @@ https://eloquentjavascript.net/ <br>
 
 45. https://www.youtube.com/watch?v=gyZtxZVPfPI
 
+46. The Complete Oracle SQL Certification Course
+
 # Private Resources
 
 - Mutual funds contact: Mike
