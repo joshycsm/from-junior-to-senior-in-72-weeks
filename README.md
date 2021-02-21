@@ -152,6 +152,10 @@ https://eloquentjavascript.net/ <br>
 
 46. The Complete Oracle SQL Certification Course
 
+47. https://zapier.com/blog/best-time-tracking-apps/
+
+48. Java Programming Masterclass for Software Developers
+
 # Private Resources
 
 - Mutual funds contact: Mike
