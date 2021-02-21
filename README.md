@@ -156,6 +156,14 @@ https://eloquentjavascript.net/ <br>
 
 48. Java Programming Masterclass for Software Developers
 
+49. https://stackoverflow.com/questions/4667906/the-advantages-and-disadvantages-of-using-orm
+
+50. Is some sort of SQL server profiler used to compare queries performed with the selected ORM?
+
+51. http://mikehadlow.blogspot.com/2012/06/when-should-i-use-orm.html
+
+52.
+
 # Private Resources
 
 - Mutual funds contact: Mike
@@ -173,3 +181,11 @@ https://eloquentjavascript.net/ <br>
 - App Ideas: The Conqueror
 - Beyond Developers: AlgoExpert, Joma/Tech Lead
 - Funny Memes: When your wrist goes out / DBZ, When you think you had a great idea
+
+Java Developer Stack
+
+- Docker
+- Java, Spring framework, Hibernate (or other ORM(Object-relational mapping)),
+- SQL databases, Redis (Remote Dictionary Server)
+- Angular V8+
+- Github
