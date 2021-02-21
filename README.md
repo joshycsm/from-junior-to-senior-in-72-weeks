@@ -162,7 +162,13 @@ https://eloquentjavascript.net/ <br>
 
 51. http://mikehadlow.blogspot.com/2012/06/when-should-i-use-orm.html
 
-52.
+52. https://toggl.com/
+
+53. https://everhour.com/
+
+54. webpack: [Google "webpack"](https://www.google.com/search?q=webpack&oq=webpack&aqs=chrome..69i57.3595j0j7&sourceid=chrome&ie=UTF-8)
+
+55. babel js: [Google "babel js"](https://www.google.com/search?sxsrf=ALeKk03YG4CnRIDO2aTG1M0_HmV2eTFlVQ%3A1613885825961&ei=gfExYLGZOpu5tAbOxbCoCQ&q=babel+js&oq=babel+js&gs_lcp=Cgdnd3Mtd2l6EAMyCggAEIcCELEDEBQyBwgAEIcCEBQyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoHCAAQsAMQQzoHCC4QsAMQQzoNCC4QxwEQrwEQsAMQQzoHCAAQsQMQQzoHCC4QsQMQQzoICAAQsQMQgwFQiqoCWJq7AmDDvAJoAnACeACAAfUBiAHeA5IBBTMuMC4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwjx3fSaofruAhWbHM0KHc4iDJUQ4dUDCA0&uact=5)
 
 # Private Resources
 
@@ -189,3 +195,4 @@ Java Developer Stack
 - SQL databases, Redis (Remote Dictionary Server)
 - Angular V8+
 - Github
+- TDD / Unit Testing
