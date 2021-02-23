@@ -172,7 +172,15 @@ https://eloquentjavascript.net/ <br>
 
 56. from-junior-to-senior-in-500-days
 
-57.
+57. Google Voice Setup.
+
+58. https://vclock.com/
+
+59. www.CrackingTheCodingInterview.com
+
+60. CareerCup.com
+
+61.
 
 # Private Resources
 
