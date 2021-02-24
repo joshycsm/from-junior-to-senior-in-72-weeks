@@ -180,7 +180,9 @@ https://eloquentjavascript.net/ <br>
 
 60. CareerCup.com
 
-61.
+61. JobReadyProgrammer.com
+
+62.
 
 # Private Resources
 
