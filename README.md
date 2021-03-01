@@ -182,7 +182,21 @@ https://eloquentjavascript.net/ <br>
 
 61. JobReadyProgrammer.com
 
-62.
+62. https://www.youtube.com/watch?v=SwQhKFMxmDY&t=7074s
+
+63. https://www.youtube.com/watch?v=uT_GcOGEFsk&t=1244s
+
+64. https://www.youtube.com/watch?v=cshVfS2LXm0&t=67s
+
+65. https://www.youtube.com/watch?v=wZN31fTPU64
+
+66. reallyconfused.co
+
+67. [The First 20 Hours To Learn Anything - Josh Kaufman](https://www.youtube.com/watch?v=5MgBikgcWnY&authuser=0)
+
+68. [A Method to x100 Your Productivity - Robin Sharma](https://www.youtube.com/watch?v=cshVfS2LXm0&authuser=0)
+
+69. DBDIAGRAM.IO/d
 
 # Private Resources
 
