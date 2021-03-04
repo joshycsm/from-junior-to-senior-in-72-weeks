@@ -198,6 +198,8 @@ https://eloquentjavascript.net/ <br>
 
 69. DBDIAGRAM.IO/d
 
+70. MEVN - MongoDB, Express, Vue, Node
+
 # Private Resources
 
 - Mutual funds contact: Mike
@@ -224,3 +226,17 @@ Java Developer Stack
 - Angular V8+
 - Github
 - TDD / Unit Testing
+
+Sharing wisdom:
+
+- Qs to ask
+  - 1.  What the culture is like: environment, management styles, methodologies (agile, etc.), business politics, dress codes
+  - 2.  Interviewer's opinion of the company, why they stay / stick around, what they would change
+  - 3.  scope of growth / personal development opportunities: horizontal, vertical how often they engage in new technologies
+  - 4.  their initial impression of me, qualities visible in other candidates and not me (hard to ask and sometimes even harder to hear the answer)
+- Usually ask about 6-7 questions. The above are the ones to ask all the time.
+- The others depend on the job, tech stack, tasks, etc.
+- An interview is a great way to market yourself but it's also an opportunity for the company to market themselves
+- Possible to decline offers from bad interviews
+- You just gotta remember that you're not just looking for a job, you're looking for a home away from home.
+- Maybe not your first job, but that should become your mentality
