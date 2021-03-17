@@ -238,7 +238,7 @@ https://eloquentjavascript.net/ <br>
 
 89. [Trick Out Your Terminal in 10 Minutes or Less](https://towardsdatascience.com/trick-out-your-terminal-in-10-minutes-or-less-ba1e0177b7df)
 
-90. 
+90. hello
 
 
 # Private Resources
