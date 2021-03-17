@@ -232,7 +232,6 @@ https://eloquentjavascript.net/ <br>
 
 86. hello.
 
-
 # Private Resources
 
 - Mutual funds contact: Mike
