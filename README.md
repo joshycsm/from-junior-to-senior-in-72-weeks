@@ -232,15 +232,6 @@ https://eloquentjavascript.net/ <br>
 
 86. hello.
 
-87. [Difference Between Opt and Usr](https://unix.stackexchange.com/questions/11544/what-is-the-difference-between-opt-and-usr-local)
-
-88. [Switching Java (JDK) Versions on MacOS](https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a)
-
-89. [Trick Out Your Terminal in 10 Minutes or Less](https://towardsdatascience.com/trick-out-your-terminal-in-10-minutes-or-less-ba1e0177b7df)
-
-90. hello
-
-
 # Private Resources
 
 - Mutual funds contact: Mike
