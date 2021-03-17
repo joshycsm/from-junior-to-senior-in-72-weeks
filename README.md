@@ -200,6 +200,47 @@ https://eloquentjavascript.net/ <br>
 
 70. MEVN - MongoDB, Express, Vue, Node
 
+71. https://javatutorialhq.com/java/util/#:~:text=basic%20java%20programming.-,The%20java.,foundation%20of%20a%20java%20programming.
+
+72. https://www.freecodecamp.org/news/learn-these-4-things-and-working-with-lambda-expressions-b0ab36e0fffc/
+
+73. https://www.comptia.org/certifications/security
+
+74. https://beginnersbook.com/2018/09/java-9-modules/
+
+75. https://learnprogramming.academy/
+
+76. The Bungle Bungles are situated within Purnululu, in the Kimberley, by way of Kununurra. (If you know these names, you likely know the country)
+
+77. uBlock Origin
+
+78. DuckDuckGo
+
+79. https://stackoverflow.com/questions/53091847/github-markdown-anchor-only-linking-to-top-of-the-page
+
+80. https://stackoverflow.com/questions/30514408/have-two-columns-in-markdown
+
+81. https://www.laurencegellert.com/software/github-graph-builder/
+
+82. For employment verification: Gusto / Truework
+
+83. https://gusto.com/r/joshua15360
+
+84. Google Authenticator
+
+85. A few centuries ago, 'maroons' developed settlements in the caves of that mountain. as rich in history as it is in beauty (Le Morne Brabant pennisula, Maurituius)
+
+86. hello.
+
+87. [Difference Between Opt and Usr](https://unix.stackexchange.com/questions/11544/what-is-the-difference-between-opt-and-usr-local)
+
+88. [Switching Java (JDK) Versions on MacOS](https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a)
+
+89. [Trick Out Your Terminal in 10 Minutes or Less](https://towardsdatascience.com/trick-out-your-terminal-in-10-minutes-or-less-ba1e0177b7df)
+
+90. 
+
+
 # Private Resources
 
 - Mutual funds contact: Mike
