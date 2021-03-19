@@ -250,13 +250,13 @@ https://eloquentjavascript.net/ <br>
 
 95. https://www.dunebook.com/eclipse-ide-themes/
 
-96. 
+96. [Why your FEELINGS give the best Career Advice - Podcast with neuroscientist Andrew Huberman](https://www.youtube.com/watch?v=FVzvpo1aw4k)
 
-97. 
+97. [Podcast #9 (current progress)](https://youtu.be/mcPSRWUYCv0?t=2899)
 
-98. 
+98. [5 Principles for (Agile) Software Development that improve Agility (and make you a better developer)](https://medium.com/the-liberators/5-principles-for-agile-software-development-that-improve-agility-and-make-you-a-better-5fb13231bfd0)
 
-99. 
+99. [My Learning (Udemy)](https://www.udemy.com/home/my-courses/learning/)
 
 100. [Junit Assert & AssertEquals with Example](https://www.guru99.com/junit-assert.html)
 
@@ -265,7 +265,6 @@ https://eloquentjavascript.net/ <br>
 102. [Eclipse Color Theme](https://marketplace.eclipse.org/content/eclipse-color-theme#group-details)
 
 103. [10 Best Eclipse IDE Plugins](https://www.dunebook.com/best-eclipse-plugins/)
-
 
 # Private Resources
 
