@@ -258,6 +258,14 @@ https://eloquentjavascript.net/ <br>
 
 99. 
 
+100. [Junit Assert & AssertEquals with Example](https://www.guru99.com/junit-assert.html)
+
+101. [Eclipse Moonrise UI Theme](https://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
+
+102. [Eclipse Color Theme](https://marketplace.eclipse.org/content/eclipse-color-theme#group-details)
+
+103. [10 Best Eclipse IDE Plugins](https://www.dunebook.com/best-eclipse-plugins/)
+
 
 # Private Resources
 
