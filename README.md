@@ -240,6 +240,25 @@ https://eloquentjavascript.net/ <br>
 
 90. hello
 
+91. https://mail.codejava.net/ides/eclipse/25-eclipse-shortcut-keys-for-code-editing
+
+92. https://www.shortcutfoo.com/app/dojos/eclipse-win/cheatsheet
+
+93. https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet
+
+94. https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle
+
+95. https://www.dunebook.com/eclipse-ide-themes/
+
+96. 
+
+97. 
+
+98. 
+
+99. 
+
+
 # Private Resources
 
 - Mutual funds contact: Mike
