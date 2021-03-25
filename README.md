@@ -266,6 +266,44 @@ https://eloquentjavascript.net/ <br>
 
 103. [10 Best Eclipse IDE Plugins](https://www.dunebook.com/best-eclipse-plugins/)
 
+104. CLion!!! check it out IDE, NetBeans Decent but memory intensive.
+
+105. [String to java.sql.Date
+](https://stackoverflow.com/questions/18438587/string-to-java-sql-date)
+
+106. [Can You Run a Car Without a Radiator Fan?](https://itstillruns.com/can-run-car-radiator-fan-6620949.html)
+
+## Week 2 as a Junior Software Engineer
+
+107. [SQL INSERT INTO Statement](https://www.w3schools.com/sql/sql_insert.asp)
+
+108. [String to java.sql.Date](https://stackoverflow.com/questions/18438587/string-to-java-sql-date)
+
+
+108. [H2 Database - Create](https://www.tutorialspoint.com/h2_database/h2_database_create.htm)
+
+108. [SQL column count does not match value count error](https://stackoverflow.com/questions/5746155/sql-column-count-does-not-match-value-count-error)
+
+108. [Java For Loop](https://www.w3schools.com/java/java_for_loop.asp)
+
+109. [Java Convert int to String](https://www.javatpoint.com/java-int-to-string)
+
+109. [Java - Including variables within strings?](https://stackoverflow.com/questions/9643610/java-including-variables-within-strings)
+
+109. [Quick tip: use CONCAT in your H2/ MySQL/ JPQL queries. Instead of ||.](https://medium.com/@skywalkerhunter/quick-tip-use-concat-in-your-h2-mysql-jpql-queries-instead-of-2b0ccef63e90)
+
+109. [How to Find a File in Eclipse](https://www.techwalla.com/articles/how-to-find-a-file-in-eclipse)
+
+109. [Java Stream count()](https://howtodoinjava.com/java8/stream-count-elements-example/)
+
+109. []()
+
+109. []()
+
+109. []()
+
+109. []()
+
 # Private Resources
 
 - Mutual funds contact: Mike
@@ -306,3 +344,5 @@ Sharing wisdom:
 - Possible to decline offers from bad interviews
 - You just gotta remember that you're not just looking for a job, you're looking for a home away from home.
 - Maybe not your first job, but that should become your mentality
+
+common attacks are sql injection and cross side scripting
