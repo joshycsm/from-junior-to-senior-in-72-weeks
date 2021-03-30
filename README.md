@@ -288,21 +288,29 @@ https://eloquentjavascript.net/ <br>
 
 109. [Java Convert int to String](https://www.javatpoint.com/java-int-to-string)
 
-109. [Java - Including variables within strings?](https://stackoverflow.com/questions/9643610/java-including-variables-within-strings)
+110. [Java - Including variables within strings?](https://stackoverflow.com/questions/9643610/java-including-variables-within-strings)
 
-109. [Quick tip: use CONCAT in your H2/ MySQL/ JPQL queries. Instead of ||.](https://medium.com/@skywalkerhunter/quick-tip-use-concat-in-your-h2-mysql-jpql-queries-instead-of-2b0ccef63e90)
+111. [Quick tip: use CONCAT in your H2/ MySQL/ JPQL queries. Instead of ||.](https://medium.com/@skywalkerhunter/quick-tip-use-concat-in-your-h2-mysql-jpql-queries-instead-of-2b0ccef63e90)
 
-109. [How to Find a File in Eclipse](https://www.techwalla.com/articles/how-to-find-a-file-in-eclipse)
+112. [How to Find a File in Eclipse](https://www.techwalla.com/articles/how-to-find-a-file-in-eclipse)
 
-109. [Java Stream count()](https://howtodoinjava.com/java8/stream-count-elements-example/)
+113. [Java Stream count()](https://howtodoinjava.com/java8/stream-count-elements-example/)
 
-109. []()
+## Week 3 as a Junior Software Engineer
 
-109. []()
+114. [JPA Implementation Patterns: Saving (Detached) Entities](https://dzone.com/articles/saving_detatched_entities)
 
-109. []()
+115. [RESTful Web Services - Methods](https://www.tutorialspoint.com/restful/restful_methods.htm)
 
-109. []()
+116. [Batch Insert/Update with Hibernate/JPA](https://www.baeldung.com/jpa-hibernate-batch-insert-update)
+
+117. [JUnit assert, value is between two integers](https://stackoverflow.com/questions/14614799/junit-assert-value-is-between-two-integers/14614982)
+
+118. [How to Execute Batch Insert Update in Hibernate](https://www.codejava.net/frameworks/hibernate/how-to-execute-batch-insert-update-in-hibernate)
+
+119. [PersistentObjectException: detached entity passed to persist thrown by JPA and Hibernate](https://stackoverflow.com/questions/13370221/persistentobjectexception-detached-entity-passed-to-persist-thrown-by-jpa-and-h)
+
+120. [Jam Board](https://jamboard.google.com/d/1lSCBnhzH04Z9DHbmapOg39hCQCMmp5_E61Y9Xxtkaog/viewer?f=0)
 
 # Private Resources
 
