@@ -258,13 +258,50 @@ https://eloquentjavascript.net/ <br>
 
 99. [My Learning (Udemy)](https://www.udemy.com/home/my-courses/learning/)
 
-100. [Junit Assert & AssertEquals with Example](https://www.guru99.com/junit-assert.html)
+100.  [Junit Assert & AssertEquals with Example](https://www.guru99.com/junit-assert.html)
 
-101. [Eclipse Moonrise UI Theme](https://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
+101.  [Eclipse Moonrise UI Theme](https://marketplace.eclipse.org/content/eclipse-moonrise-ui-theme)
 
-102. [Eclipse Color Theme](https://marketplace.eclipse.org/content/eclipse-color-theme#group-details)
+102.  [Eclipse Color Theme](https://marketplace.eclipse.org/content/eclipse-color-theme#group-details)
 
-103. [10 Best Eclipse IDE Plugins](https://www.dunebook.com/best-eclipse-plugins/)
+103.  [10 Best Eclipse IDE Plugins](https://www.dunebook.com/best-eclipse-plugins/)
+
+104.  [Set up an SSH key (BitBucket Support)](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
+
+105.  [Top Tracker](https://tracker.toptal.com/app/my-activities?start=2021-03-12&end=2021-03-19&projects=all)
+
+106.  [5 common Gmail issues and how to fix them](https://www.androidauthority.com/gmail-not-working-common-issues-816785/)
+
+Week 3:
+
+107. [Key Values: Select your top values and find teams you'll click with.](https://www.keyvalues.com/)
+
+108. [PostgreSQL - port 5432 already in use](https://dev.to/balt1794/postgresql-port-5432-already-in-use-1pcf)
+
+109. [Cannot kill Postgres process: HomeBrew solution!](https://stackoverflow.com/questions/44607421/cannot-kill-postgres-process)
+
+110. [Aftercamp:
+     GROWTH FOR YOUR WEB DEVELOPMENT CAREER](https://www.aftercamp.io/)
+
+111. [Scott Bromander](https://github.com/scottbromander)
+
+112. [How To Screen Record With Audio on Mac - Quicktime Screen Recording](https://www.youtube.com/watch?v=7m751Sispbs)
+
+113. [SQL GROUP BY Statement](https://www.w3schools.com/sql/sql_groupby.asp)
+
+114. [SQL Server COUNT() Function](https://www.w3schools.com/sql/func_sqlserver_count.asp)
+
+115. [Broker House Lending | Mortgage Broker Louisville KY](https://www.google.com/maps/place/Broker+House+Lending+%7C+Mortgage+Broker+Louisville+KY/@38.2441102,-85.5478407,17z/data=!3m1!4b1!4m8!1m2!2m1!1samerisave!3m4!1s0x886975e3934c2bf5:0x296fa2cbe90bb712!8m2!3d38.244106!4d-85.545652)
+
+116. [Search for Folder Name Using Eclipse “Search in File”](https://stackoverflow.com/questions/39549234/search-for-folder-name-using-eclipse-search-in-file)
+
+117. [First Creek Lending](https://app.firstcreeklending.com/borrower/login/TBELLOWS@FIRSTCREEKLENDING.COM)
+
+118. []()
+
+119. []()
+
+120. []()
 
 # Private Resources
 
