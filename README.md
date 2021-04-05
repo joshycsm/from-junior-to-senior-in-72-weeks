@@ -240,11 +240,11 @@ https://eloquentjavascript.net/ <br>
 
 90. hello
 
-91. https://mail.codejava.net/ides/eclipse/25-eclipse-shortcut-keys-for-code-editing
+91. [25 Eclipse Shortcut Keys for Code Editing - Windows](https://mail.codejava.net/ides/eclipse/25-eclipse-shortcut-keys-for-code-editing)
 
-92. https://www.shortcutfoo.com/app/dojos/eclipse-win/cheatsheet
+92. [Eclipse Cheat Sheet - Windows](https://www.shortcutfoo.com/app/dojos/eclipse-win/cheatsheet)
 
-93. https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet
+93. [Eclipse Cheat Sheet - Mac](https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet)
 
 94. https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle
 
@@ -348,6 +348,44 @@ Week 3:
 119. [PersistentObjectException: detached entity passed to persist thrown by JPA and Hibernate](https://stackoverflow.com/questions/13370221/persistentobjectexception-detached-entity-passed-to-persist-thrown-by-jpa-and-h)
 
 120. [Jam Board](https://jamboard.google.com/d/1lSCBnhzH04Z9DHbmapOg39hCQCMmp5_E61Y9Xxtkaog/viewer?f=0)
+
+## Week 4 as a Junior Software Engineer (catch-up)
+
+121. [Jitsi Meetings](https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb/related)
+
+122. [Postman - Home](https://web.postman.co/home)
+
+123. [Elon Musk talks about getting fired as Paypal CEO (2008)](https://youtu.be/wKacw4zHj-Q?t=1257)
+
+124. [SCARY WORK ETHIC - Elon Musk Motivational Video](https://www.youtube.com/watch?v=iu3Wtf5Vwjk)
+
+125. [pojo](https://www.google.com/search?q=pojo&oq=pojo&aqs=chrome..69i57j46j0i131i433j0j0i131i433j0l2j46i175i199j0.2145j0j7&sourceid=chrome&ie=UTF-8)
+
+126. [Getting started with the OpenShift CLI](https://docs.openshift.com/container-platform/4.6/cli_reference/openshift_cli/getting-started-cli.html)
+
+127. [Meet the YubiKey!](https://www.youtube.com/watch?v=_EqOmhahBQc)
+
+128. [Move and copy items in your system](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal/4634381-move-and-copy-items-in-your-system#:~:text=Move%20content&text=If%20you%20use%20a%20visual,of%20course%20stands%20for%20move.)
+
+129. [Moving workspace folder](https://www.eclipse.org/forums/index.php/t/54160/)
+
+13 . [The 33 Most Useful Keyboard Shortcuts for Google Chrome](https://blog.hubspot.com/sales/chrome-keyboard-shortcuts)
+
+13 . []()
+
+13 . []()
+
+13 . []()
+
+13 . []()
+
+13 . []()
+
+13 . []()
+
+13 . []()
+
+13 . []()
 
 # Private Resources
 
